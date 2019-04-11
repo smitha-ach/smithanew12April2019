@@ -1,1 +1,1 @@
-Hello from Smitha
+Hello from Git and modified this for purpose of add and commit
